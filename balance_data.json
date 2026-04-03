@@ -2,36 +2,36 @@
   "dctx_email": {
     "quota": 1221.12,
     "used": 3629.17,
-    "timestamp": 1775221896.5903127
+    "timestamp": 1775242684.1896079
   },
   "ljq_email": {
     "quota": 800.15,
     "used": 3949.93,
-    "timestamp": 1775221918.2370248
+    "timestamp": 1775242705.7571929
   },
   "zc_email": {
-    "quota": 2310.78,
-    "used": 2439.22,
-    "timestamp": 1775221939.207707
+    "quota": 2308.61,
+    "used": 2441.39,
+    "timestamp": 1775242727.9643183
   },
   "zj_email": {
     "quota": 1674.98,
     "used": 2025.02,
-    "timestamp": 1775222028.2810495
+    "timestamp": 1775242816.447556
   },
   "fks_email": {
     "quota": 3511.22,
     "used": 188.78,
-    "timestamp": 1775222050.818987
+    "timestamp": 1775242839.7216887
   },
   "dxh_email": {
     "quota": 3700.0,
     "used": 0.0,
-    "timestamp": 1775222073.5134115
+    "timestamp": 1775242861.8972697
   },
   "zhb_email": {
     "quota": 3700.0,
     "used": 0.0,
-    "timestamp": 1775222095.0403435
+    "timestamp": 1775242886.522064
   }
 }
